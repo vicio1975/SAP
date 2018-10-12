@@ -1,0 +1,22 @@
+mounting_top_plate : 7061026
+inner ring : 7060207
+fan : 7060158
+motor : b243-76
+boss : 7060136
+stiffener_mounting_plate : 7060206
+stiffener_base_plate : 7061100
+av system : 7125-2192
+plate base : 7060201
+outer_sealing_ring : 7061044
+mounting_plate : 7061025
+shaft : 7060121
+mounting_side_plate2 : 7061028
+top ring : 7061034
+plate_closing : 7061111
+plate ring : 7060197
+mounting_side_plate4 : 7061030
+mounting_side_plate1 : 7061027
+mounting_side_plate3 : 7061029
+inner_sealing_ring : 7061045
+assy_motor_plate : 7060208
+assy_fancase : 7061031
